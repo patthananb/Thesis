@@ -1,0 +1,10 @@
+env	id	project	class	framework	form_on_disk	source
+bench_rob2011_master	1	Rob2011	A	Arduino	single .ino	../libraries/ESP32.Modbus-TCP-gateway
+bench_vwetter_master	2	vwetter	A	Arduino	.ino + libraries	../libraries/esp32-modbus-gateway_vwetter
+bench_zivillian_master	3	zivillian	P	Arduino+PIO	full PIO project	../libraries/esp32-modbus-gateway_zivillian
+bench_harihanv_master	4	harihanv	A	Arduino	multi-tab .ino	../libraries/esp32-modbus-gateway_harihanv
+bench_tobiasfaust_master	5	tobiasfaust	P	Arduino+PIO	full PIO project	../libraries/SolaxModbusGateway_tobiasfaust
+bench_emodbus_master	6	eModbus	L	Arduino	library.json	../libraries/eModbus
+bench_namnam_iot_master	7	NamNamIoT	A	Arduino examples	../libraries/ESP32
+bench_maxx_ukoo_master	8	maxx-ukoo	I	ESP-IDF	full IDF project	../libraries/esp32-modbus-tcp2rtu
+bench_esp_modbus_master	9	esp-modbus	L	ESP-IDF	IDF component	../libraries/esp-modbus

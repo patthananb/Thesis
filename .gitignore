@@ -1,0 +1,8 @@
+**/.git-standalone.bak/
+**/.pio/
+**/secrets.h
+*.lock
+.DS_Store
+.git_old_parent_baseline/
+__pycache__/
+~$*

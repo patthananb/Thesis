@@ -1,0 +1,127 @@
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39971]
+CYCLE SUMMARY: 4/4 PASS
+
+--- Cycle 2 ---
+T1: FC3 read regs 0..4
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=35948]
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39970]
+CYCLE SUMMARY: 8/8 PASS
+
+--- Cycle 3 ---
+T1: FC3 read regs 0..4
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=35952]
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39970]
+CYCLE SUMMARY: 12/12 PASS
+
+--- Cycle 4 ---
+T1: FC3 read regs 0..4
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=35952]
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39970]
+CYCLE SUMMARY: 16/16 PASS
+
+--- Cycle 5 ---
+T1: FC3 read regs 0..4
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=35952]
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39970]
+CYCLE SUMMARY: 20/20 PASS
+
+--- Cycle 6 ---
+T1: FC3 read regs 0..4
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=35952]
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39970]
+CYCLE SUMMARY: 24/24 PASS
+
+--- Cycle 7 ---
+T1: FC3 read regs 0..4
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=35952]
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39970]
+CYCLE SUMMARY: 28/28 PASS
+
+--- Cycle 8 ---
+T1: FC3 read regs 0..4
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=35952]
+T2: FC6 write reg 0 = 4242
+>> T2 FC6 write reg 0: PASS [us=29971]
+T3: FC3 read reg 0 (verify)
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=27971]
+T4: FC16 write regs 0..2 = 100,200,300 (restore)
+>> T4 FC16 restore: PASS [us=39970]
+CYCLE SUMMARY: 32/32 PASS

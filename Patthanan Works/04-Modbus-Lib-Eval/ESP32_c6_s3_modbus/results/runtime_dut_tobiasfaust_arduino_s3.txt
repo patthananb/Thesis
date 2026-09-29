@@ -1,0 +1,96 @@
+>> T2 FC6 write reg 0: PASS [us=24156]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=23156]
+>> T4 FC16 restore: PASS [us=34156]
+CYCLE SUMMARY: 3/4 PASS
+
+--- Cycle 2 ---
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=31130]
+>> T2 FC6 write reg 0: PASS [us=24156]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=23156]
+>> T4 FC16 restore: PASS [us=34156]
+CYCLE SUMMARY: 7/8 PASS
+
+--- Cycle 3 ---
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=31136]
+>> T2 FC6 write reg 0: PASS [us=24156]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=23156]
+>> T4 FC16 restore: PASS [us=34156]
+CYCLE SUMMARY: 11/12 PASS
+
+--- Cycle 4 ---
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=31139]
+>> T2 FC6 write reg 0: PASS [us=23156]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=22156]
+>> T4 FC16 restore: PASS [us=34156]
+CYCLE SUMMARY: 15/16 PASS
+
+--- Cycle 5 ---
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=31139]
+>> T2 FC6 write reg 0: PASS [us=23156]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=22156]
+>> T4 FC16 restore: PASS [us=34156]
+CYCLE SUMMARY: 19/20 PASS
+
+--- Cycle 6 ---
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=31139]
+>> T2 FC6 write reg 0: PASS [us=23156]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=22156]
+>> T4 FC16 restore: PASS [us=34153]
+CYCLE SUMMARY: 23/24 PASS
+
+--- Cycle 7 ---
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=31136]
+>> T2 FC6 write reg 0: PASS [us=23153]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=22153]
+>> T4 FC16 restore: PASS [us=34153]
+CYCLE SUMMARY: 27/28 PASS
+
+--- Cycle 8 ---
+  reg[0]=100
+  reg[1]=200
+  reg[2]=300
+  reg[3]=400
+  reg[4]=500
+>> T1 FC3 read 0..4: PASS [us=31136]
+>> T2 FC6 write reg 0: PASS [us=24153]
+  reg[0]=4242
+>> T3 FC3 verify write: PASS [us=22156]
+>> T4 FC16 restore: PASS [us=33156]
+CYCLE SUMMARY: 31/32 PASS

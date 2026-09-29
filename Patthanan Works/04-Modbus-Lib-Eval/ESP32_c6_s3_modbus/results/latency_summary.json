@@ -1,0 +1,452 @@
+[
+  {
+    "env": "dut_rob2011_arduino_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 7,
+    "min": 35948,
+    "mean": 35951,
+    "p50": 35952,
+    "p95": 35952,
+    "max": 35952
+  },
+  {
+    "env": "dut_rob2011_arduino_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 29971,
+    "mean": 29971,
+    "p50": 29971,
+    "p95": 29971,
+    "max": 29971
+  },
+  {
+    "env": "dut_rob2011_arduino_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 27971,
+    "mean": 27971,
+    "p50": 27971,
+    "p95": 27971,
+    "max": 27971
+  },
+  {
+    "env": "dut_rob2011_arduino_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 39970,
+    "mean": 39970,
+    "p50": 39970,
+    "p95": 39971,
+    "max": 39971
+  },
+  {
+    "env": "dut_rob2011_arduino_s3",
+    "step": "ALL",
+    "n": 31,
+    "min": 27971,
+    "mean": 33386,
+    "p50": 29971,
+    "p95": 39970,
+    "max": 39971
+  },
+  {
+    "env": "dut_vwetter_arduino_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 7,
+    "min": 31140,
+    "mean": 31143,
+    "p50": 31142,
+    "p95": 31145,
+    "max": 31145
+  },
+  {
+    "env": "dut_vwetter_arduino_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 23157,
+    "mean": 23908,
+    "p50": 24157,
+    "p95": 24159,
+    "max": 24160
+  },
+  {
+    "env": "dut_vwetter_arduino_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 22162,
+    "mean": 22910,
+    "p50": 23159,
+    "p95": 23162,
+    "max": 23162
+  },
+  {
+    "env": "dut_vwetter_arduino_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 33161,
+    "mean": 34033,
+    "p50": 34157,
+    "p95": 34159,
+    "max": 34160
+  },
+  {
+    "env": "dut_vwetter_arduino_s3",
+    "step": "ALL",
+    "n": 31,
+    "min": 22162,
+    "mean": 27897,
+    "p50": 24160,
+    "p95": 34157,
+    "max": 34160
+  },
+  {
+    "env": "dut_zivillian_arduino_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 8,
+    "min": 31974,
+    "mean": 45524,
+    "p50": 33981,
+    "p95": 97911,
+    "max": 132335
+  },
+  {
+    "env": "dut_zivillian_arduino_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 26000,
+    "mean": 26000,
+    "p50": 26000,
+    "p95": 26000,
+    "max": 26000
+  },
+  {
+    "env": "dut_zivillian_arduino_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 24000,
+    "mean": 24000,
+    "p50": 24000,
+    "p95": 24000,
+    "max": 24000
+  },
+  {
+    "env": "dut_zivillian_arduino_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 35999,
+    "mean": 36000,
+    "p50": 36000,
+    "p95": 36000,
+    "max": 36000
+  },
+  {
+    "env": "dut_zivillian_arduino_s3",
+    "step": "ALL",
+    "n": 32,
+    "min": 24000,
+    "mean": 32881,
+    "p50": 28987,
+    "p95": 36000,
+    "max": 132335
+  },
+  {
+    "env": "dut_harihanv_arduino_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 7,
+    "min": 31154,
+    "mean": 31158,
+    "p50": 31158,
+    "p95": 31161,
+    "max": 31161
+  },
+  {
+    "env": "dut_harihanv_arduino_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 23175,
+    "mean": 24052,
+    "p50": 24178,
+    "p95": 24178,
+    "max": 24178
+  },
+  {
+    "env": "dut_harihanv_arduino_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 22178,
+    "mean": 23053,
+    "p50": 23178,
+    "p95": 23178,
+    "max": 23178
+  },
+  {
+    "env": "dut_harihanv_arduino_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 34175,
+    "mean": 34176,
+    "p50": 34175,
+    "p95": 34178,
+    "max": 34178
+  },
+  {
+    "env": "dut_harihanv_arduino_s3",
+    "step": "ALL",
+    "n": 31,
+    "min": 22178,
+    "mean": 28011,
+    "p50": 24178,
+    "p95": 34178,
+    "max": 34178
+  },
+  {
+    "env": "dut_tobiasfaust_arduino_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 7,
+    "min": 31130,
+    "mean": 31136,
+    "p50": 31136,
+    "p95": 31139,
+    "max": 31139
+  },
+  {
+    "env": "dut_tobiasfaust_arduino_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 23153,
+    "mean": 23655,
+    "p50": 23654,
+    "p95": 24156,
+    "max": 24156
+  },
+  {
+    "env": "dut_tobiasfaust_arduino_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 22153,
+    "mean": 22531,
+    "p50": 22156,
+    "p95": 23156,
+    "max": 23156
+  },
+  {
+    "env": "dut_tobiasfaust_arduino_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 33156,
+    "mean": 34030,
+    "p50": 34156,
+    "p95": 34156,
+    "max": 34156
+  },
+  {
+    "env": "dut_tobiasfaust_arduino_s3",
+    "step": "ALL",
+    "n": 31,
+    "min": 22153,
+    "mean": 27732,
+    "p50": 24156,
+    "p95": 34156,
+    "max": 34156
+  },
+  {
+    "env": "dut_emodbus_arduino_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 7,
+    "min": 33974,
+    "mean": 33980,
+    "p50": 33981,
+    "p95": 33981,
+    "max": 33981
+  },
+  {
+    "env": "dut_emodbus_arduino_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 26001,
+    "mean": 26001,
+    "p50": 26001,
+    "p95": 26001,
+    "max": 26001
+  },
+  {
+    "env": "dut_emodbus_arduino_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 24001,
+    "mean": 25501,
+    "p50": 26001,
+    "p95": 26001,
+    "max": 26001
+  },
+  {
+    "env": "dut_emodbus_arduino_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 36000,
+    "mean": 36001,
+    "p50": 36001,
+    "p95": 36001,
+    "max": 36001
+  },
+  {
+    "env": "dut_emodbus_arduino_s3",
+    "step": "ALL",
+    "n": 31,
+    "min": 24001,
+    "mean": 30254,
+    "p50": 26001,
+    "p95": 36001,
+    "max": 36001
+  },
+  {
+    "env": "dut_namnam_iot_arduino_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 7,
+    "min": 27545,
+    "mean": 27805,
+    "p50": 27805,
+    "p95": 28034,
+    "max": 28058
+  },
+  {
+    "env": "dut_namnam_iot_arduino_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 20200,
+    "mean": 20494,
+    "p50": 20494,
+    "p95": 20757,
+    "max": 20787
+  },
+  {
+    "env": "dut_namnam_iot_arduino_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 19156,
+    "mean": 19449,
+    "p50": 19450,
+    "p95": 19713,
+    "max": 19743
+  },
+  {
+    "env": "dut_namnam_iot_arduino_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 30157,
+    "mean": 30453,
+    "p50": 30458,
+    "p95": 30717,
+    "max": 30746
+  },
+  {
+    "env": "dut_namnam_iot_arduino_s3",
+    "step": "ALL",
+    "n": 31,
+    "min": 19156,
+    "mean": 24445,
+    "p50": 20787,
+    "p95": 30620,
+    "max": 30746
+  },
+  {
+    "env": "dut_esp_modbus_espidf_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 8,
+    "min": 30933,
+    "mean": 31228,
+    "p50": 31226,
+    "p95": 31494,
+    "max": 31523
+  },
+  {
+    "env": "dut_esp_modbus_espidf_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 23221,
+    "mean": 23805,
+    "p50": 23844,
+    "p95": 24111,
+    "max": 24141
+  },
+  {
+    "env": "dut_esp_modbus_espidf_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 22281,
+    "mean": 22862,
+    "p50": 22904,
+    "p95": 23168,
+    "max": 23198
+  },
+  {
+    "env": "dut_esp_modbus_espidf_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 33678,
+    "mean": 33976,
+    "p50": 33978,
+    "p95": 34238,
+    "max": 34267
+  },
+  {
+    "env": "dut_esp_modbus_espidf_s3",
+    "step": "ALL",
+    "n": 32,
+    "min": 22281,
+    "mean": 27968,
+    "p50": 27537,
+    "p95": 34142,
+    "max": 34267
+  },
+  {
+    "env": "dut_maxx_ukoo_espidf_s3",
+    "step": "T1 FC3 read 0..4",
+    "n": 8,
+    "min": 30684,
+    "mean": 31018,
+    "p50": 30976,
+    "p95": 31456,
+    "max": 31601
+  },
+  {
+    "env": "dut_maxx_ukoo_espidf_s3",
+    "step": "T2 FC6 write reg 0",
+    "n": 8,
+    "min": 23299,
+    "mean": 23593,
+    "p50": 23594,
+    "p95": 23858,
+    "max": 23887
+  },
+  {
+    "env": "dut_maxx_ukoo_espidf_s3",
+    "step": "T3 FC3 verify write",
+    "n": 8,
+    "min": 22340,
+    "mean": 22640,
+    "p50": 22642,
+    "p95": 22905,
+    "max": 22934
+  },
+  {
+    "env": "dut_maxx_ukoo_espidf_s3",
+    "step": "T4 FC16 restore",
+    "n": 8,
+    "min": 33614,
+    "mean": 34029,
+    "p50": 33905,
+    "p95": 34499,
+    "max": 34527
+  },
+  {
+    "env": "dut_maxx_ukoo_espidf_s3",
+    "step": "ALL",
+    "n": 32,
+    "min": 22340,
+    "mean": 27820,
+    "p50": 27286,
+    "p95": 34397,
+    "max": 34527
+  }
+]

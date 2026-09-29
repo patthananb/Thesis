@@ -1,0 +1,30 @@
+[submodule "ESP32.Modbus-TCP-gateway"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/ESP32.Modbus-TCP-gateway
+	url = https://github.com/Rob2011/ESP32.Modbus-TCP-gateway
+[submodule "ESP32"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/ESP32
+	url = https://github.com/NamNamIoT/ESP32
+[submodule "SolaxModbusGateway_tobiasfaust"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/SolaxModbusGateway_tobiasfaust
+	url = https://github.com/tobiasfaust/SolaxModbusGateway
+[submodule "eModbus"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/eModbus
+	url = https://github.com/eModbus/eModbus
+[submodule "esp-modbus"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/esp-modbus
+	url = https://github.com/espressif/esp-modbus
+[submodule "esp32-modbus-gateway_harihanv"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/esp32-modbus-gateway_harihanv
+	url = https://github.com/harihanv/esp32-modbus-gateway
+[submodule "esp32-modbus-gateway_vwetter"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/esp32-modbus-gateway_vwetter
+	url = https://github.com/vwetter/esp32-modbus-gateway
+[submodule "esp32-modbus-gateway_zivillian"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/esp32-modbus-gateway_zivillian
+	url = https://github.com/zivillian/esp32-modbus-gateway
+[submodule "esp32-modbus-tcp2rtu"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/esp32-modbus-tcp2rtu
+	url = https://github.com/maxx-ukoo/esp32-modbus-tcp2rtu
+[submodule "esphome_modbus_bridge"]
+	path = Patthanan Works/04-Modbus-Lib-Eval/ESP32_c6_s3_modbus/lib/esphome_modbus_bridge
+	url = https://github.com/rosenrot00/esphome_modbus_bridge
