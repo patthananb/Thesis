@@ -6,3 +6,6 @@
 .git_old_parent_baseline/
 __pycache__/
 ~$*
+# Local-only: Claude tool settings and archived thesis backups (536 MB, not uploaded)
+.claude/
+Patthanan Works/01-Thesis/archive/
